@@ -19,7 +19,4 @@ if (empty($name || $email || $subject || $message)) {
 
 }
 
-
-
 ?>
-
